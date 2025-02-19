@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Alamat tidak ditemukan, click disini untu_2f4e4a</name>
+   <tag></tag>
+   <elementGuidId>4895f8ed-c9d1-4113-b467-7d993b6b1162</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div/div/div/div[2]/div/div/div/table/tbody/tr/td[6]/h6/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h6.MuiTypography-root.MuiTypography-h6.css-d5zmtp > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3a575906-4e2a-471e-bed5-653d339d02de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.google.com/maps/search/?api=1&amp;query=-6.1379089,106.8431737</value>
+      <webElementGuid>d1afeb84-f00b-4b56-a717-9b847136da89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>6884d93d-e7ae-427d-bef7-7747e478e84c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>noreferrer</value>
+      <webElementGuid>302a41ff-24cd-40e1-b834-254f097cded5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Alamat tidak ditemukan, click disini untuk lihat lokasi</value>
+      <webElementGuid>7b85abf9-35e8-46b9-afdf-66fb86b8a7d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-10f63sf&quot;]/div[@class=&quot;css-11qbmxu&quot;]/div[@class=&quot;MuiContainer-root css-1p62yps&quot;]/div[@class=&quot;MuiBox-root css-76jx17&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-1d3bbye&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-lg-12 css-15j76c0&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-oim7up&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 css-1d88nt7&quot;]/div[@class=&quot;MuiTableContainer-root css-kge0eu&quot;]/table[@class=&quot;MuiTable-root MuiTable-stickyHeader css-o1eexh&quot;]/tbody[@class=&quot;MuiTableBody-root css-1xnox0e&quot;]/tr[@class=&quot;MuiTableRow-root MuiTableRow-hover css-lry5m7&quot;]/td[@class=&quot;MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-8k6it1&quot;]/h6[@class=&quot;MuiTypography-root MuiTypography-h6 css-d5zmtp&quot;]/a[1]</value>
+      <webElementGuid>707ef34e-a326-4047-96ec-96c347d029d0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/div/div/div[2]/div/div/div/table/tbody/tr/td[6]/h6/a</value>
+      <webElementGuid>2ff0a484-48e8-4507-86a3-d170c48d7b66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Alamat tidak ditemukan, click disini untuk lihat lokasi')]</value>
+      <webElementGuid>0b246ebd-716b-4d10-8f27-342e3dac7446</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Business Development'])[1]/following::a[1]</value>
+      <webElementGuid>d300e9a8-5379-43de-939f-8d4795d501f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bujang'])[1]/following::a[1]</value>
+      <webElementGuid>04bd112f-bf55-43ed-89b2-eea016f4f21a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alamat tidak ditemukan'])[1]/preceding::a[1]</value>
+      <webElementGuid>196bb22c-9044-4147-93eb-f09f85515b06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Work From Home'])[1]/preceding::a[1]</value>
+      <webElementGuid>051905dc-de3e-49cc-8b02-c2bcbc341395</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Alamat tidak ditemukan, click disini untuk lihat lokasi']/parent::*</value>
+      <webElementGuid>fb533ae0-e198-4c89-a49c-a4bfdb47c90f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.google.com/maps/search/?api=1&amp;query=-6.1379089,106.8431737')]</value>
+      <webElementGuid>09b998ed-ef0e-424e-be97-025a41330fae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h6/a</value>
+      <webElementGuid>5b4888b7-f058-439a-9b0e-51eb72669a1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.google.com/maps/search/?api=1&amp;query=-6.1379089,106.8431737' and (text() = 'Alamat tidak ditemukan, click disini untuk lihat lokasi' or . = 'Alamat tidak ditemukan, click disini untuk lihat lokasi')]</value>
+      <webElementGuid>d9f18ff0-5bad-4396-b30a-c692edb0aee0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

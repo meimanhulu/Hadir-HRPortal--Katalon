@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h6_Alamat tidak ditemukan, click disini unt_8875ec</name>
+   <tag></tag>
+   <elementGuidId>35677c2f-ab6d-49a0-b2ec-67f1c8cc9e42</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div/div/div/div[2]/div/div/div/table/tbody/tr/td[6]/h6</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h6</value>
+      <webElementGuid>f87200dd-2fe3-475c-b34e-588fd96bd062</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-h6 css-d5zmtp</value>
+      <webElementGuid>399483ff-6d06-4de7-af22-ecf967cf21f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Alamat tidak ditemukan, click disini untuk lihat lokasi</value>
+      <webElementGuid>45fd2df5-22d0-4eb4-af01-c6a0ed236203</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-10f63sf&quot;]/div[@class=&quot;css-11qbmxu&quot;]/div[@class=&quot;MuiContainer-root css-1p62yps&quot;]/div[@class=&quot;MuiBox-root css-76jx17&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-1d3bbye&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-lg-12 css-15j76c0&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-oim7up&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 css-1d88nt7&quot;]/div[@class=&quot;MuiTableContainer-root css-kge0eu&quot;]/table[@class=&quot;MuiTable-root MuiTable-stickyHeader css-o1eexh&quot;]/tbody[@class=&quot;MuiTableBody-root css-1xnox0e&quot;]/tr[@class=&quot;MuiTableRow-root MuiTableRow-hover css-lry5m7&quot;]/td[@class=&quot;MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-8k6it1&quot;]/h6[@class=&quot;MuiTypography-root MuiTypography-h6 css-d5zmtp&quot;]</value>
+      <webElementGuid>b36f96bf-d518-49ab-bdae-7cf901c8a3da</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/div/div/div[2]/div/div/div/table/tbody/tr/td[6]/h6</value>
+      <webElementGuid>493f5343-c4bc-4524-8a24-9f29f3b7c126</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IT Programmer'])[1]/following::h6[5]</value>
+      <webElementGuid>17804734-519f-4e03-803b-b221f86085dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hadir SQA Testing 2'])[1]/following::h6[6]</value>
+      <webElementGuid>444cb815-bd60-4e89-916e-ff2527d81e4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alamat tidak ditemukan'])[1]/preceding::h6[1]</value>
+      <webElementGuid>7314536f-ae0b-405a-b2a7-707345e4bf85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]/h6</value>
+      <webElementGuid>675720db-8186-4e0f-95e0-bc04ce695bb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h6[(text() = 'Alamat tidak ditemukan, click disini untuk lihat lokasi' or . = 'Alamat tidak ditemukan, click disini untuk lihat lokasi')]</value>
+      <webElementGuid>84f2a29e-0abe-4bdc-a89b-df14e8686d76</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

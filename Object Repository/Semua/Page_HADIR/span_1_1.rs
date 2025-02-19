@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_1_1</name>
+   <tag></tag>
+   <elementGuidId>08c46326-75e5-415a-a80e-6642d5a73233</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div/div/div/div/div/div[2]/form/div/div/div[3]/div/div/div/div[3]/div/div[2]/button[4]/span[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.rdrDay.rdrDayStartOfMonth.rdrDayHovered > span.rdrDayNumber > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4d071fc2-a50b-486c-8826-07216e015c9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>45be4f86-25da-4e27-ab6f-796b572671cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-10f63sf&quot;]/div[@class=&quot;css-11qbmxu&quot;]/div[@class=&quot;MuiContainer-root css-1p62yps&quot;]/div[@class=&quot;MuiBox-root css-76jx17&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-1d3bbye&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-true MuiGrid-grid-lg-12 css-1a249as&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-kwrdim&quot;]/div[@class=&quot;MuiCardContent-root css-1qw96cp&quot;]/form[1]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-3 css-1h77wgb&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-7 MuiGrid-grid-lg-8 css-kw2xn2&quot;]/div[@class=&quot;MuiBox-root css-1e972d2&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation2 css-1shz3rj&quot;]/div[@class=&quot;MuiBox-root css-j7qwjs&quot;]/div[@class=&quot;rdrCalendarWrapper rdrDateRangeWrapper date__picker&quot;]/div[@class=&quot;rdrMonths rdrMonthsVertical&quot;]/div[@class=&quot;rdrMonth&quot;]/div[@class=&quot;rdrDays&quot;]/button[@class=&quot;rdrDay rdrDayStartOfMonth rdrDayHovered&quot;]/span[@class=&quot;rdrDayNumber&quot;]/span[1]</value>
+      <webElementGuid>613ab60c-bc10-4578-b793-0ba5996cf3e9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/div/div/div/div/div[2]/form/div/div/div[3]/div/div/div/div[3]/div/div[2]/button[4]/span[2]/span</value>
+      <webElementGuid>ad957728-5b4d-4ae4-87f3-0a7d53cab62b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sat'])[1]/following::span[9]</value>
+      <webElementGuid>21c47fd5-f23c-4554-82fe-e02855e05e94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fri'])[1]/following::span[10]</value>
+      <webElementGuid>01dee0f8-4ed0-4285-8e47-648cd277b5bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='cancel'])[1]/preceding::span[63]</value>
+      <webElementGuid>9caca1c8-03b7-46c0-88c2-e97c08fa591f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='save'])[1]/preceding::span[64]</value>
+      <webElementGuid>f1e608b2-2b7d-4285-8b70-69909e7afb09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='1']/parent::*</value>
+      <webElementGuid>ce03e3d1-efea-437e-aa59-5e7fd1fcd546</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/span</value>
+      <webElementGuid>158e4b7c-3a5a-45a8-8c88-87c373c86c81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '1' or . = '1')]</value>
+      <webElementGuid>95097aba-95eb-40e6-bb5e-6534306a7f2f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

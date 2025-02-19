@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Semua</name>
+   <tag></tag>
+   <elementGuidId>d729b07c-ad04-4b6e-9d70-eda01e1dd9a8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div[2]/div/div/div/div[2]/div/div/div/div/div/div[2]/div[2]/div/div[2]/div/div/div/div/div[2]/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>15563079-9b3e-43d7-8d06-7b803b6f2ba7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-body1 css-aqx7sf</value>
+      <webElementGuid>fc80c152-3bbc-41c9-8dc0-347d4f4dafbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Semua</value>
+      <webElementGuid>8a264ec8-cb33-43ce-9a80-4daeb75372df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-10f63sf&quot;]/div[@class=&quot;MuiBox-root css-k008qs&quot;]/div[@class=&quot;MuiDrawer-root MuiDrawer-docked css-1tu59u4&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-elevation0 MuiDrawer-paper MuiDrawer-paperAnchorLeft MuiDrawer-paperAnchorDockedLeft css-1yw4omu&quot;]/div[1]/div[@class=&quot;simplebar-wrapper&quot;]/div[@class=&quot;simplebar-mask&quot;]/div[@class=&quot;simplebar-offset&quot;]/div[@class=&quot;simplebar-content-wrapper&quot;]/div[@class=&quot;simplebar-content&quot;]/div[@class=&quot;MuiBox-root css-10klw3m&quot;]/div[@class=&quot;sidebar MuiBox-root css-ftf74w&quot;]/div[@class=&quot;MuiBox-root css-old1by&quot;]/div[@class=&quot;MuiBox-root css-mkf7ch&quot;]/div[@class=&quot;MuiBox-root css-8atqhb&quot;]/div[@class=&quot;MuiCollapse-root MuiCollapse-vertical MuiCollapse-entered css-c4sutr&quot;]/div[@class=&quot;MuiCollapse-wrapper MuiCollapse-vertical css-hboir5&quot;]/div[@class=&quot;MuiCollapse-wrapperInner MuiCollapse-vertical css-8atqhb&quot;]/div[@class=&quot;MuiBox-root css-uewl2b&quot;]/div[@class=&quot;MuiBox-root css-zb4pxb&quot;]/div[@class=&quot;MuiBox-root css-1pd2x36&quot;]/p[@class=&quot;MuiTypography-root MuiTypography-body1 css-aqx7sf&quot;]</value>
+      <webElementGuid>e1750b05-c164-428a-a233-19a6d905df01</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/div/div/div/div[2]/div/div/div/div/div/div[2]/div[2]/div/div[2]/div/div/div/div/div[2]/p</value>
+      <webElementGuid>4c3471d4-3de5-4f69-b4a7-08a59528bc55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin Hadir'])[1]/following::p[5]</value>
+      <webElementGuid>f004ff87-4d9a-4a07-a849-7a184d2bfc19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hi,'])[1]/following::p[5]</value>
+      <webElementGuid>0273008a-6777-424d-84bc-0109bfae23e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start Date'])[1]/preceding::p[20]</value>
+      <webElementGuid>36dbef5d-6cf3-4033-974d-147911d09af0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/preceding::p[20]</value>
+      <webElementGuid>8c9a2f7f-4310-4bab-9349-358f8bb4c14f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Semua']/parent::*</value>
+      <webElementGuid>ddabd4c0-b9fb-445e-a277-c319c79659e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/div/div/div[2]/p</value>
+      <webElementGuid>17bbd22f-4441-4a78-ba23-54611343d4ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Semua' or . = 'Semua')]</value>
+      <webElementGuid>bd6f0180-1b57-4004-aaa6-9b610dd15987</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
