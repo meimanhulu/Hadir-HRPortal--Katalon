@@ -17,27 +17,14 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Semua/Page_HADIR/div_Laporan'))
-
-WebUI.click(findTestObject('Semua/Page_HADIR/p_Semua'))
-
-WebUI.setText(findTestObject('Object Repository/Semua/Page_HADIR/input_Search_search'), 'Momo')
-
-WebUI.click(findTestObject('Semua/Page_HADIR/button_Search'))
-
 WebUI.delay(2)
 
-WebUI.click(findTestObject('Object Repository/Semua/Page_HADIR/button_Reset'))
+WebUI.click(findTestObject('Object Repository/SemuaHalaman/Page_HADIR/button_Reset'))
 
 WebUI.delay(2)
 
 // ASSERTION UNTUK MEMASTIKAN FILTER TELAH DIHAPUS
 // 1. Pastikan kolom pencarian kosong
-WebUI.verifyElementAttributeValue(findTestObject('Object Repository/Semua/Page_HADIR/input_Search_search'), 'value', '', 
+WebUI.verifyElementAttributeValue(findTestObject('Object Repository/SemuaHalaman/Page_HADIR/input_Search_search'), 'value', '', 
     10)
-
-// 2. Pastikan dropdown kembali ke opsi default (misalnya "Semua")
-WebUI.verifyElementText(findTestObject('Semua/Page_HADIR/div_Semua'), 'Semua')
-
-WebUI.click(findTestObject('Semua/Page_HADIR/div_Semua'))
 

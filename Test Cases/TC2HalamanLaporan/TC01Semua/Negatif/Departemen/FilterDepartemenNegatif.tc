@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FilterDepartemenNegatif</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cc1dffc9-8d91-4a83-bdca-b8494e26826a</testCaseGuid>
+</TestCaseEntity>

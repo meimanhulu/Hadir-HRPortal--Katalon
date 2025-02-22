@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description></description>
+   <description>Mengujikan login dengan akun admin</description>
    <name>Login</name>
-   <tag></tag>
+   <tag>login, admin, positive</tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>0bac4f84-dc61-42a1-838e-78120c009098</testCaseGuid>

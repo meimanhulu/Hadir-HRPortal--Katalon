@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Januari 2025</name>
+   <tag></tag>
+   <elementGuidId>578756cb-fb74-49e3-837a-ebaae4179d45</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mui-35-grid-label']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mui-35-grid-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>65212310-9599-4c83-8f65-9765dcf38ff0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>mui-35-grid-label</value>
+      <webElementGuid>cb668931-e58d-41a5-83b1-002c6081ecc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiPickersCalendarHeader-label css-1v994a0</value>
+      <webElementGuid>0e73a081-1b1c-487e-a302-1cfba5a1ad98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Januari 2025</value>
+      <webElementGuid>bf7afa4c-e1a5-489a-9647-5c2657165eba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mui-35-grid-label&quot;)</value>
+      <webElementGuid>8caa148c-bb17-452d-89b4-a3da8d72b300</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='mui-35-grid-label']</value>
+      <webElementGuid>87c8f921-703c-4fb9-bdfa-2e870396990d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambahkan'])[1]/following::div[11]</value>
+      <webElementGuid>fce74ddb-719a-49dd-9a5a-40e7498512f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tutup'])[1]/following::div[11]</value>
+      <webElementGuid>bc4abb5d-02ca-4f1b-beac-95cd56f8d296</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='M'])[1]/preceding::div[3]</value>
+      <webElementGuid>ac9ff8a8-6832-439b-a9f5-c287e949a5db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='S'])[1]/preceding::div[3]</value>
+      <webElementGuid>8cb302ba-c3af-48f6-9f39-1eaa7b841f31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Januari 2025']/parent::*</value>
+      <webElementGuid>2efd9707-9b43-484f-98dc-78616692c20f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[14]/div[2]/div/div/div/div/div/div/div</value>
+      <webElementGuid>5eb6c1af-c0d8-4639-8f39-73864a513318</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'mui-35-grid-label' and (text() = 'Januari 2025' or . = 'Januari 2025')]</value>
+      <webElementGuid>d478d8d5-bf42-45ff-9b81-9170337dc58a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

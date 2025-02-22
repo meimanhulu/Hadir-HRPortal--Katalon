@@ -17,36 +17,36 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Object Repository/Semua/Page_HADIR/div_Laporan'))
+WebUI.click(findTestObject('Object Repository/SemuaHalaman/Page_HADIR/div_Laporan'))
 
-WebUI.click(findTestObject('Object Repository/Semua/Page_HADIR/p_Semua'))
+WebUI.click(findTestObject('Object Repository/SemuaHalaman/Page_HADIR/p_Semua'))
 
-WebUI.click(findTestObject('Object Repository/Semua/Page_HADIR/svg_Start Date_feather feather-calendar'))
+WebUI.click(findTestObject('Object Repository/SemuaHalaman/Page_HADIR/svg_Start Date_feather feather-calendar'))
 
 WebUI.delay(2)
 
 WebUI.scrollToPosition(0, 250)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Semua/Page_HADIR/select_204520442043204220412040203920382037_364d99'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/SemuaHalaman/Page_HADIR/select_204520442043204220412040203920382037_364d99'), 
     '2029', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Semua/Page_HADIR/select_204520442043204220412040203920382037_364d99'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/SemuaHalaman/Page_HADIR/select_204520442043204220412040203920382037_364d99'), 
     '2023', true)
 
 WebUI.delay(2)
 
-WebUI.clickOffset(findTestObject('Object Repository/Semua/Page_HADIR/span_1'), 2, 2)
+WebUI.clickOffset(findTestObject('Object Repository/SemuaHalaman/Page_HADIR/span_1'), 2, 2)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Semua/Page_HADIR/select_204520442043204220412040203920382037_364d99'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/SemuaHalaman/Page_HADIR/select_204520442043204220412040203920382037_364d99'), 
     '2026', true)
 
-WebUI.clickOffset(findTestObject('Object Repository/Semua/Page_HADIR/span_29'), 1, 1)
+WebUI.clickOffset(findTestObject('Object Repository/SemuaHalaman/Page_HADIR/span_29'), 1, 1)
 
-WebUI.click(findTestObject('Object Repository/Semua/Page_HADIR/button_save'))
+WebUI.click(findTestObject('Object Repository/SemuaHalaman/Page_HADIR/button_save'))
 
 WebUI.scrollToPosition(0, 1)
 
-WebUI.click(findTestObject('Object Repository/Semua/Page_HADIR/button_Search'))
+WebUI.click(findTestObject('Object Repository/SemuaHalaman/Page_HADIR/button_Search'))
 
-WebUI.click(findTestObject('Object Repository/Semua/Page_HADIR/p_2022 Aplikasi Hadir'))
+WebUI.click(findTestObject('Object Repository/SemuaHalaman/Page_HADIR/p_2022 Aplikasi Hadir'))
 

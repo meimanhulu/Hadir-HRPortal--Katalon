@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Tambahkan Aturan Cuti</name>
+   <tag></tag>
+   <elementGuidId>be1b675c-56b7-4b69-ac0f-a54a174bcb60</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2[@id='mui-47']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mui-47</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>22396531-8433-47ac-9495-b10853535dfc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-h6 MuiDialogTitle-root css-7wde3o</value>
+      <webElementGuid>2eeeded9-3dce-4bc6-9630-a9720f52880f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>mui-47</value>
+      <webElementGuid>536d1a5d-2851-4ce1-84fc-a6d79f027813</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tambahkan Aturan Cuti</value>
+      <webElementGuid>26dd7c71-6ff5-47fe-90a4-49b896a386a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mui-47&quot;)</value>
+      <webElementGuid>831d84c7-6a01-44b9-ad3b-27dbe88f9417</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h2[@id='mui-47']</value>
+      <webElementGuid>f51b28a3-6455-479b-b5c3-46e74a01c849</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[10]/following::h2[1]</value>
+      <webElementGuid>5af2e7fb-e25a-41b6-8b5b-710622c27e8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[10]/following::h2[1]</value>
+      <webElementGuid>3f9b0298-5dce-421d-953d-50be8d6216f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Aturan Cuti'])[1]/preceding::h2[1]</value>
+      <webElementGuid>d09c9635-a667-4f1b-abee-07e2f976295e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[2]/preceding::h2[1]</value>
+      <webElementGuid>6cb98801-a515-4719-a254-3e4d9c320b91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>cc47d89f-afcd-499e-89be-16339ae40c45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[@id = 'mui-47' and (text() = 'Tambahkan Aturan Cuti' or . = 'Tambahkan Aturan Cuti')]</value>
+      <webElementGuid>130962c0-d6f3-41f9-9727-c2d8c5621e78</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
