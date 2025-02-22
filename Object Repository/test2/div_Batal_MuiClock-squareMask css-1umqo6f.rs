@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Batal_MuiClock-squareMask css-1umqo6f</name>
+   <tag></tag>
+   <elementGuidId>592a4703-b28b-4f8b-8b78-40f8ca0cc426</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiClock-squareMask.css-1umqo6f</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[14]/div[2]/div/div/div/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7e47e632-c795-4acc-ba88-531e7c061f73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiClock-squareMask css-1umqo6f</value>
+      <webElementGuid>cbcb9c5e-ba73-46d7-b51f-da987e6291cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;&quot;]/body[1]/div[@class=&quot;base-Popper-root MuiPickersPopper-root css-1mtsuo7&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation8 MuiPickersPopper-paper css-h4okpc&quot;]/div[@class=&quot;MuiCalendarOrClockPicker-root css-j7qwjs&quot;]/div[@class=&quot;css-epd502&quot;]/div[@class=&quot;MuiClockPicker-root css-1brzq0m&quot;]/div[@class=&quot;MuiClock-root css-fhpqww&quot;]/div[@class=&quot;MuiClock-clock css-eziifo&quot;]/div[@class=&quot;MuiClock-squareMask css-1umqo6f&quot;]</value>
+      <webElementGuid>56ab5d0f-456e-407b-b819-50fb796e582e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[14]/div[2]/div/div/div/div[2]/div/div</value>
+      <webElementGuid>d40a2ade-b179-4c02-b927-0a528b636e4c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

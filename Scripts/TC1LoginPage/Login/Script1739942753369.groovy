@@ -19,15 +19,15 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://magang.dikahadir.com/authentication/login')
-
 WebUI.maximizeWindow()
 
-WebUI.setText(findTestObject('Object Repository/Login/input_Email_email'), 'admin@hadir.com')
+WebUI.navigateToUrl('https://magang.dikahadir.com/authentication/login')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Login/input_Password_password'), 'aSC42nPN26UggVXAwmiGmQ==')
+WebUI.setText(findTestObject('Object Repository/LoginHalaman/input_Email_email'), 'admin@hadir.com')
 
-WebUI.click(findTestObject('Object Repository/Login/button_Masuk'))
+WebUI.setEncryptedText(findTestObject('Object Repository/LoginHalaman/input_Password_password'), 'aSC42nPN26UggVXAwmiGmQ==')
 
-WebUI.delay(1)
+WebUI.click(findTestObject('Object Repository/LoginHalaman/button_Masuk'))
+
+WebUI.delay(3)
 

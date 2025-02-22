@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Negatif - Mengujikan fitur pencarian laporan dengan kata kunci &quot;abcxyz&quot;</description>
+   <name>PencarianNamaNegatif</name>
+   <tag>search, laporan, negative test</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6c9032bb-3fe6-45fa-af88-f2ab9608a2bd</testCaseGuid>
+</TestCaseEntity>

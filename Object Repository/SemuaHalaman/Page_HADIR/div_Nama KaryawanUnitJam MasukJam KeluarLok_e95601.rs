@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Nama KaryawanUnitJam MasukJam KeluarLok_e95601</name>
+   <tag></tag>
+   <elementGuidId>d44d6550-47fd-4dc3-9503-5afb7bf5d58c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation1.MuiCard-root.css-oim7up</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div/div/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7a0aef86-89bd-4e79-a135-4f60df070975</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-oim7up</value>
+      <webElementGuid>ed35ed66-19bc-4ebe-ba16-7c94af7945fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nama KaryawanUnitJam MasukJam KeluarLokasi MasukLokasi KeluarStatusNotes MasukNotes Keluarhadirsqa48Business Development20 Feb 202515:05:15-Alamat tidak ditemukan, click disini untuk lihat lokasiAlamat tidak ditemukanWork From Office-BujangBusiness Development20 Feb 202514:57:4620 Feb 202514:59:09Alamat tidak ditemukan, click disini untuk lihat lokasiAlamat tidak ditemukanWork From OfficeMinaBusiness Development20 Feb 202514:46:0520 Feb 202514:47:39Alamat tidak ditemukan, click disini untuk lihat lokasiAlamat tidak ditemukanWork From HomeSaya pulangSanaBusiness Development20 Feb 202514:42:40-Alamat tidak ditemukan, click disini untuk lihat lokasiAlamat tidak ditemukanWork From Office-JihyoBusiness Development20 Feb 202514:18:5420 Feb 202514:39:28Alamat tidak ditemukan, click disini untuk lihat lokasiAlamat tidak ditemukanWork From Homehadirsqa51Business Development20 Feb 202514:03:48-Alamat tidak ditemukan, click disini untuk lihat lokasiAlamat tidak ditemukanWork From Office-AndreBusiness Development20 Feb 202513:59:5220 Feb 202514:15:06Alamat tidak ditemukan, click disini untuk lihat lokasiAlamat tidak ditemukanWork From OfficeHadir50Business Development20 Feb 202513:51:2820 Feb 202514:49:29Alamat tidak ditemukan, click disini untuk lihat lokasiAlamat tidak ditemukanWork From OfficeMinaBusiness Development19 Feb 202512:08:5320 Feb 202501:00:00Alamat tidak ditemukan, click disini untuk lihat lokasiAlamat tidak ditemukanWork From OfficeHadir Saya-SanaBusiness Development19 Feb 202511:54:2919 Feb 202511:55:38Alamat tidak ditemukan, click disini untuk lihat lokasiAlamat tidak ditemukanWork From OfficeHadir SayaSaya pulangRows per page:101-10 of 6536</value>
+      <webElementGuid>b89c4a4c-ab95-41c8-a41d-416269b824ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-10f63sf&quot;]/div[@class=&quot;css-11qbmxu&quot;]/div[@class=&quot;MuiContainer-root css-1p62yps&quot;]/div[@class=&quot;MuiBox-root css-76jx17&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-1d3bbye&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-lg-12 css-15j76c0&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-oim7up&quot;]</value>
+      <webElementGuid>26995ae0-54af-47e2-a9cd-f3b4982be60f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/div/div/div[2]/div</value>
+      <webElementGuid>5e1b845b-cf19-440e-b123-8e112b595e1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[2]/following::div[2]</value>
+      <webElementGuid>9620b318-b1e0-435c-b7a4-55001e1f6029</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[1]/following::div[2]</value>
+      <webElementGuid>5f92dbb6-9d07-4ae3-8571-4e57c39406e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div</value>
+      <webElementGuid>d5c50365-7251-4f58-84f2-234bcacb8a9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Nama KaryawanUnitJam MasukJam KeluarLokasi MasukLokasi KeluarStatusNotes MasukNotes Keluarhadirsqa48Business Development20 Feb 202515:05:15-Alamat tidak ditemukan, click disini untuk lihat lokasiAlamat tidak ditemukanWork From Office-BujangBusiness Development20 Feb 202514:57:4620 Feb 202514:59:09Alamat tidak ditemukan, click disini untuk lihat lokasiAlamat tidak ditemukanWork From OfficeMinaBusiness Development20 Feb 202514:46:0520 Feb 202514:47:39Alamat tidak ditemukan, click disini untuk lihat lokasiAlamat tidak ditemukanWork From HomeSaya pulangSanaBusiness Development20 Feb 202514:42:40-Alamat tidak ditemukan, click disini untuk lihat lokasiAlamat tidak ditemukanWork From Office-JihyoBusiness Development20 Feb 202514:18:5420 Feb 202514:39:28Alamat tidak ditemukan, click disini untuk lihat lokasiAlamat tidak ditemukanWork From Homehadirsqa51Business Development20 Feb 202514:03:48-Alamat tidak ditemukan, click disini untuk lihat lokasiAlamat tidak ditemukanWork From Office-AndreBusiness Development20 Feb 202513:59:5220 Feb 202514:15:06Alamat tidak ditemukan, click disini untuk lihat lokasiAlamat tidak ditemukanWork From OfficeHadir50Business Development20 Feb 202513:51:2820 Feb 202514:49:29Alamat tidak ditemukan, click disini untuk lihat lokasiAlamat tidak ditemukanWork From OfficeMinaBusiness Development19 Feb 202512:08:5320 Feb 202501:00:00Alamat tidak ditemukan, click disini untuk lihat lokasiAlamat tidak ditemukanWork From OfficeHadir Saya-SanaBusiness Development19 Feb 202511:54:2919 Feb 202511:55:38Alamat tidak ditemukan, click disini untuk lihat lokasiAlamat tidak ditemukanWork From OfficeHadir SayaSaya pulangRows per page:101-10 of 6536' or . = 'Nama KaryawanUnitJam MasukJam KeluarLokasi MasukLokasi KeluarStatusNotes MasukNotes Keluarhadirsqa48Business Development20 Feb 202515:05:15-Alamat tidak ditemukan, click disini untuk lihat lokasiAlamat tidak ditemukanWork From Office-BujangBusiness Development20 Feb 202514:57:4620 Feb 202514:59:09Alamat tidak ditemukan, click disini untuk lihat lokasiAlamat tidak ditemukanWork From OfficeMinaBusiness Development20 Feb 202514:46:0520 Feb 202514:47:39Alamat tidak ditemukan, click disini untuk lihat lokasiAlamat tidak ditemukanWork From HomeSaya pulangSanaBusiness Development20 Feb 202514:42:40-Alamat tidak ditemukan, click disini untuk lihat lokasiAlamat tidak ditemukanWork From Office-JihyoBusiness Development20 Feb 202514:18:5420 Feb 202514:39:28Alamat tidak ditemukan, click disini untuk lihat lokasiAlamat tidak ditemukanWork From Homehadirsqa51Business Development20 Feb 202514:03:48-Alamat tidak ditemukan, click disini untuk lihat lokasiAlamat tidak ditemukanWork From Office-AndreBusiness Development20 Feb 202513:59:5220 Feb 202514:15:06Alamat tidak ditemukan, click disini untuk lihat lokasiAlamat tidak ditemukanWork From OfficeHadir50Business Development20 Feb 202513:51:2820 Feb 202514:49:29Alamat tidak ditemukan, click disini untuk lihat lokasiAlamat tidak ditemukanWork From OfficeMinaBusiness Development19 Feb 202512:08:5320 Feb 202501:00:00Alamat tidak ditemukan, click disini untuk lihat lokasiAlamat tidak ditemukanWork From OfficeHadir Saya-SanaBusiness Development19 Feb 202511:54:2919 Feb 202511:55:38Alamat tidak ditemukan, click disini untuk lihat lokasiAlamat tidak ditemukanWork From OfficeHadir SayaSaya pulangRows per page:101-10 of 6536')]</value>
+      <webElementGuid>72ac1663-476f-4e97-870d-d8f355f94d30</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
