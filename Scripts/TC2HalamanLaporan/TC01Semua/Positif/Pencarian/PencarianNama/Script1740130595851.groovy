@@ -20,7 +20,8 @@ import java.text.SimpleDateFormat
 import java.util.Date
 
 // Buat path folder penyimpanan screenshot
-String folderPath = "D:/JuaraCoding/katalon/ErrorSS/Hadir/Semua/Pencarian/"
+//String folderPath = "D:/JuaraCoding/katalon/ErrorSS/Hadir/Semua/Pencarian/"
+String folderPath = RunConfiguration.getProjectDir() + "/ErrorSS/Hadir/Semua/Pencarian/"
 
 // Tambahkan timestamp agar nama file unik
 String timestamp = new SimpleDateFormat("yyyyMMdd_HHmmss").format(new Date())
