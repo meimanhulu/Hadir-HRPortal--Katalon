@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Tanggal</name>
+   <name>Kehadiran</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>4140275e-61e7-4278-8b46-d4ec9de1e280</testCaseGuid>
+   <testCaseGuid>f0f4e2b6-8d60-420f-be88-dbd7161f852d</testCaseGuid>
 </TestCaseEntity>
