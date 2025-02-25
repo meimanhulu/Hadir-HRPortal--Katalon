@@ -6,11 +6,12 @@
    <elementGuidId>ce6927d2-dddd-4031-ad45-1b6d895a2429</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='__next']/div/div/div[2]/div/div/div/div[2]/div/div/div/div/div/div[2]/div[4]/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>1861926e-339c-404d-9447-de36b5b9d789</webElementGuid>
+      <webElementGuid>47da9377-f5ff-4e4a-b13d-f9b1f936b45b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>sidebar__item MuiBox-root css-0</value>
-      <webElementGuid>7c864399-e9eb-4d75-830d-351ac02b2e6c</webElementGuid>
+      <webElementGuid>5f3112a9-25bd-4ca5-8ced-fcbd9545cb3c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Management</value>
-      <webElementGuid>2705a200-89ea-4fcc-8b87-a7bc4957b42e</webElementGuid>
+      <webElementGuid>74c01ca9-0911-4a70-8f09-95c3fc9e8fc0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;css-10f63sf&quot;]/div[@class=&quot;MuiBox-root css-k008qs&quot;]/div[@class=&quot;MuiDrawer-root MuiDrawer-docked css-1tu59u4&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-elevation0 MuiDrawer-paper MuiDrawer-paperAnchorLeft MuiDrawer-paperAnchorDockedLeft css-1yw4omu&quot;]/div[1]/div[@class=&quot;simplebar-wrapper&quot;]/div[@class=&quot;simplebar-mask&quot;]/div[@class=&quot;simplebar-offset&quot;]/div[@class=&quot;simplebar-content-wrapper&quot;]/div[@class=&quot;simplebar-content&quot;]/div[@class=&quot;MuiBox-root css-10klw3m&quot;]/div[@class=&quot;sidebar MuiBox-root css-ftf74w&quot;]/div[@class=&quot;MuiBox-root css-old1by&quot;]/div[@class=&quot;MuiBox-root css-mkf7ch&quot;]/div[@class=&quot;MuiBox-root css-8atqhb&quot;]/div[@class=&quot;sidebar__wrapper MuiBox-root css-1tkg8nm&quot;]/div[@class=&quot;sidebar__item MuiBox-root css-0&quot;]</value>
-      <webElementGuid>c75862dd-746e-47db-bb03-6cbffbdcf7f9</webElementGuid>
+      <webElementGuid>b0953ebf-0991-4f6f-b1bf-511c2652eeb6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +55,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div/div[2]/div/div/div/div[2]/div/div/div/div/div/div[2]/div[4]/div/div/div[2]</value>
-      <webElementGuid>2c9ebec4-6404-4339-9bf3-aad5c9273f5c</webElementGuid>
+      <webElementGuid>6d3cdea6-672c-4e68-89f4-546f15da62d3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin Hadir'])[1]/following::div[69]</value>
-      <webElementGuid>bfac42df-6ac4-45d5-89ea-a0a04b7e941d</webElementGuid>
+      <webElementGuid>853e32d0-52a1-4e52-bfbb-bd9eeb299708</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Hi,'])[1]/following::div[69]</value>
-      <webElementGuid>1e7e95c7-6b09-4034-b026-7fa913e8657a</webElementGuid>
+      <webElementGuid>c7e69a01-51f0-417c-a2b0-920d28058735</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Start Date'])[1]/preceding::div[6]</value>
-      <webElementGuid>348c8186-2fa2-4653-be23-8302a367dfca</webElementGuid>
+      <webElementGuid>23410e64-251c-494a-a775-efa95dbd2601</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/preceding::div[7]</value>
-      <webElementGuid>db43c023-5aa8-4b81-a530-e509b5b9b53d</webElementGuid>
+      <webElementGuid>f86d658b-2b12-42ee-af00-7a3f27da2517</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div/div/div[2]</value>
-      <webElementGuid>65d7eb7a-83ef-42d2-a823-35ce525a2426</webElementGuid>
+      <webElementGuid>3724b522-1430-4389-98c4-3067af8c6b64</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +103,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Management' or . = 'Management')]</value>
-      <webElementGuid>b4c70fcc-bbc1-460a-9f37-75c6ff98be34</webElementGuid>
+      <webElementGuid>d23e5a95-fc7e-45a1-acee-4f78b4775cf0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

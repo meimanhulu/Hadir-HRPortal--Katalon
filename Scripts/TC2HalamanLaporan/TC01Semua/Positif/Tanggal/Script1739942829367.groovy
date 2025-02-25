@@ -18,7 +18,7 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 WebUI.refresh()
-WebUI.delay(3) // Beri waktu agar halaman sepenuhnya dimuat
+
 WebUI.delay(2)
 
 WebUI.click(findTestObject('Object Repository/SemuaHalaman/Page_HADIR/svg_Start Date_feather feather-calendar'))

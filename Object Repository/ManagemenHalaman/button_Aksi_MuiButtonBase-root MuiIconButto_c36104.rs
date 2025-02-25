@@ -6,12 +6,12 @@
    <elementGuidId>d2258503-460a-4ea4-b8a2-33b59b330a2a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(//button[@type='button'])[19]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[19]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>b384df20-a764-4f72-8e94-6089d652e39c</webElementGuid>
+      <webElementGuid>0271c3b4-f4a0-43dd-91bd-994c6b5b0147</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1yhx7lq</value>
-      <webElementGuid>a74b3d42-5c19-406a-b75f-f3ad5872375f</webElementGuid>
+      <webElementGuid>990ca99a-135a-485d-8057-08f38429f646</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>4ce349f0-3c55-4c29-88ad-6f0405ecda5c</webElementGuid>
+      <webElementGuid>8bc79e8a-37a4-4709-9a54-641a8a01235c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>826cf0d6-a2ae-48f2-b3c8-a95dfe29385e</webElementGuid>
+      <webElementGuid>fbdffcba-5078-4951-ade1-e2b30a7f415a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Go to last page</value>
-      <webElementGuid>65192470-6b94-45cc-8046-a340dc90edd4</webElementGuid>
+      <webElementGuid>e7fb7f4a-4126-48d8-a378-d2329efcbbc9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Go to last page</value>
-      <webElementGuid>ee7f77f5-22bf-4943-a7c5-ec5b84f4e87d</webElementGuid>
+      <webElementGuid>8973c823-1347-4f05-9ebb-107af72b3b3a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;css-10f63sf&quot;]/div[@class=&quot;css-11qbmxu&quot;]/div[@class=&quot;MuiContainer-root css-1p62yps&quot;]/div[@class=&quot;MuiBox-root css-76jx17&quot;]/section[1]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-oim7up&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 css-1p1km5h&quot;]/div[@class=&quot;MuiTablePagination-root css-o9ey65&quot;]/div[@class=&quot;MuiToolbar-root MuiToolbar-gutters MuiToolbar-regular MuiTablePagination-toolbar css-1kjtqje&quot;]/div[@class=&quot;MuiTablePagination-actions&quot;]/button[@class=&quot;MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1yhx7lq&quot;]</value>
-      <webElementGuid>f1332715-6f39-419a-97c2-61c55411396e</webElementGuid>
+      <webElementGuid>0aa01a57-4ce5-4477-a5bb-3561ce1dd047</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[19]</value>
-      <webElementGuid>cd51a32b-e3bb-4d4d-b73b-96ba2b848b5f</webElementGuid>
+      <webElementGuid>e0c717da-9def-4976-ab24-878dc21d4a79</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div[2]/div/div/section/div/div/div[2]/div[2]/div/div[3]/button[4]</value>
-      <webElementGuid>4d260ee9-a176-4856-b1e7-a7c5156acc90</webElementGuid>
+      <webElementGuid>9326bc3c-09eb-4896-bf6f-48f6ff64559b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Aksi'])[1]/following::button[14]</value>
-      <webElementGuid>3229d5e2-e415-45cc-b8d9-73ebc2945814</webElementGuid>
+      <webElementGuid>81e7039a-6cef-45df-bd7b-44938da8b408</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tanggal Dibuat'])[1]/following::button[14]</value>
-      <webElementGuid>33e9ef0d-90f6-45e0-941a-57ede51ee557</webElementGuid>
+      <webElementGuid>11f35c2a-0e21-4a97-b8ae-07b18df0805a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Dense padding'])[1]/preceding::button[1]</value>
-      <webElementGuid>df1f8b25-69bf-4b0d-a77c-75885ff9a3cb</webElementGuid>
+      <webElementGuid>48aef6d5-e675-4e67-89d0-7e21b44b123f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='User Profile'])[1]/preceding::button[1]</value>
-      <webElementGuid>1d1d5206-076e-4ff6-bc0a-e354e187b7c6</webElementGuid>
+      <webElementGuid>dd706a09-f16b-4ca8-8810-17a965f893a2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +127,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button[4]</value>
-      <webElementGuid>c344728a-df52-4fac-b5d2-528a07c32167</webElementGuid>
+      <webElementGuid>e83cc3c1-aeab-45f4-b8aa-353f3945c8e8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,6 +135,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @title = 'Go to last page']</value>
-      <webElementGuid>d20f9fef-773f-45bf-9180-7f33c47d925a</webElementGuid>
+      <webElementGuid>f2ad1abc-1b09-4cb7-a5c7-ea0432946e98</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

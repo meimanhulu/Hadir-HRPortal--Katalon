@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>e0c7e01d-7e18-44e1-ae27-e0bfe6cd9b1e</webElementGuid>
+      <webElementGuid>625ab7e3-2abb-414f-98f0-6409a719843a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiFormHelperText-root Mui-error MuiFormHelperText-sizeSmall MuiFormHelperText-contained css-a13hsf</value>
-      <webElementGuid>1dad7287-a444-4130-b024-05e41aada5a8</webElementGuid>
+      <webElementGuid>56ef33f9-3f04-4372-9107-d81c48fd0942</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>id</name>
       <type>Main</type>
       <value>name-helper-text</value>
-      <webElementGuid>9d8a1b26-ff7e-458f-8f3d-bd2311fec268</webElementGuid>
+      <webElementGuid>79668b95-2cc9-435b-9685-ba73aca1546e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Nama aturan cuti harus diisi!</value>
-      <webElementGuid>1c380f52-d51d-440c-a930-37c74e330d2b</webElementGuid>
+      <webElementGuid>6faf5fe6-1df0-4a4d-abbe-424eab1fa9ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;name-helper-text&quot;)</value>
-      <webElementGuid>305aba01-883d-4263-b39a-4ef72722ce70</webElementGuid>
+      <webElementGuid>56cbdc65-d4e1-48ed-abad-0daf4d278ade</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//p[@id='name-helper-text']</value>
-      <webElementGuid>659e61de-7115-4c09-a825-96c9a93c5a19</webElementGuid>
+      <webElementGuid>2c7985f9-45b6-42ca-bebd-23630946261b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[2]/following::p[1]</value>
-      <webElementGuid>8b6efb8b-e971-4673-84c9-6f5088aab747</webElementGuid>
+      <webElementGuid>42498308-9236-40bd-8c0b-1ca6b7d87a66</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Aturan Cuti'])[1]/following::p[1]</value>
-      <webElementGuid>1b0994a5-7372-4a00-bcb3-e2a877a06f66</webElementGuid>
+      <webElementGuid>f40217b2-bb2f-4ce1-a15e-d90e71c57b35</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Eligible Pengaturan Cuti (Bulan)'])[1]/preceding::p[1]</value>
-      <webElementGuid>f0d5711a-2f97-4fd2-8bd7-6ed8102976d1</webElementGuid>
+      <webElementGuid>2cf93952-42b8-4564-b9cf-25ba305fc403</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[3]/preceding::p[1]</value>
-      <webElementGuid>d27f47ba-2f6b-40c3-a9de-1731296aa821</webElementGuid>
+      <webElementGuid>ddee16a2-d98b-46d4-8753-de539f595a9c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Nama aturan cuti harus diisi!']/parent::*</value>
-      <webElementGuid>e5024867-2280-495c-9b94-0809d99eb926</webElementGuid>
+      <webElementGuid>53fa8cd4-0599-4af7-9c95-7ca37b124c39</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/div/div/p</value>
-      <webElementGuid>43febbca-86b3-4231-aa60-e8bc3ef8209d</webElementGuid>
+      <webElementGuid>2c748aa7-0619-4c86-b880-6578319a8af3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,6 +119,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//p[@id = 'name-helper-text' and (text() = 'Nama aturan cuti harus diisi!' or . = 'Nama aturan cuti harus diisi!')]</value>
-      <webElementGuid>db1feb93-aacd-4f8f-8e5a-8e497a5a15ad</webElementGuid>
+      <webElementGuid>c0becc9d-cb6e-496a-9928-64e79225c496</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -24,7 +24,7 @@ WebUI.scrollToPosition(0, 1000)
 WebUI.delay(2)
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/SemuaHalaman/Page_HADIR/button_-_MuiButtonBase-root MuiIconButton-r_396e76'), 
-    5)
+    2)
 
 WebUI.click(findTestObject('Object Repository/SemuaHalaman/Page_HADIR/button_-_MuiButtonBase-root MuiIconButton-r_396e76'))
 

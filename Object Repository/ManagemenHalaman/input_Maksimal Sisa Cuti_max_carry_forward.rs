@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>3e53325e-a591-43b7-98b9-6740ea3d5296</webElementGuid>
+      <webElementGuid>d82569e7-7a4f-4ddd-9f1f-2d4cca7592d5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>aria-invalid</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>00e62444-1cbb-4d81-9a65-3b9f34505606</webElementGuid>
+      <webElementGuid>9976bdd5-dc43-4d05-a48f-4b75192187a3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>id</name>
       <type>Main</type>
       <value>max_carry_forward</value>
-      <webElementGuid>3011c64f-1b1e-49fc-8b47-09c9c909d62c</webElementGuid>
+      <webElementGuid>912e0877-4069-4fca-ba28-611ebac2e533</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>name</name>
       <type>Main</type>
       <value>max_carry_forward</value>
-      <webElementGuid>ca35faf2-d6af-4ca4-b2a3-5d76ff8373d5</webElementGuid>
+      <webElementGuid>aaed24be-2620-4999-9f35-1afeaf3c2902</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Maksimal Sisa Cuti</value>
-      <webElementGuid>396519a9-4a96-4a99-a48e-367c9f42a4a0</webElementGuid>
+      <webElementGuid>0dbd0a03-1fdf-49cb-8d90-ca0b08e53b5d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>type</name>
       <type>Main</type>
       <value>number</value>
-      <webElementGuid>52b69eef-42e0-4e5d-a572-7a0fae5c054f</webElementGuid>
+      <webElementGuid>80f8d0f9-7025-4df7-861a-1d2b6ffc0a8c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputSizeSmall css-1o6z5ng</value>
-      <webElementGuid>137849fc-5ac1-48b5-be67-79aa6ff2d492</webElementGuid>
+      <webElementGuid>a5181ed9-79af-4c77-a09c-065a3c6b188a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>value</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>81068bf8-5611-47f2-8e80-eb8534086097</webElementGuid>
+      <webElementGuid>61814111-e916-4d24-9b47-f9a7777af95d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;max_carry_forward&quot;)</value>
-      <webElementGuid>9bb3c736-cd0f-418a-802e-4f13d35f537b</webElementGuid>
+      <webElementGuid>e1c42fb3-4ada-4df8-ac78-3bc34d0a8f8f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='max_carry_forward']</value>
-      <webElementGuid>d984daca-a201-4415-a7db-8cf70a8675ea</webElementGuid>
+      <webElementGuid>e65f7e73-b663-4784-a4dd-ea2ecd42f203</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/div/div/input</value>
-      <webElementGuid>ceb464c2-18e8-42c4-b1ff-61e49073b330</webElementGuid>
+      <webElementGuid>245860ff-6c2d-4642-a4d3-7838a60fb530</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,6 +111,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'max_carry_forward' and @name = 'max_carry_forward' and @placeholder = 'Maksimal Sisa Cuti' and @type = 'number']</value>
-      <webElementGuid>c6a8302d-8b4f-4e4f-a146-f5ece50583c9</webElementGuid>
+      <webElementGuid>e8828b88-ecd2-407f-b418-61f29d118ed4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

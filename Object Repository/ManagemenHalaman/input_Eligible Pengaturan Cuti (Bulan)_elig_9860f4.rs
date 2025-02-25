@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>9e03f734-fa3e-460a-9c97-c7f6967af924</webElementGuid>
+      <webElementGuid>52bd4c07-219d-4f75-8f41-02ae1dae36e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>aria-invalid</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>a1aca897-4aa2-40a9-85b0-83d09cd897ed</webElementGuid>
+      <webElementGuid>535487c7-c60a-48bc-bfb8-37ee75ea47e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>id</name>
       <type>Main</type>
       <value>eligible_leave_total_month</value>
-      <webElementGuid>8e22148b-9099-4289-a41b-27ccff81e242</webElementGuid>
+      <webElementGuid>4dcb6d9a-9401-4a08-b2a6-5ac37e2d6be4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>name</name>
       <type>Main</type>
       <value>eligible_leave_total_month</value>
-      <webElementGuid>83955cd3-31fe-4264-a630-4a06f85328d5</webElementGuid>
+      <webElementGuid>27696936-2177-40d8-9b74-8d60b3227a42</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Eligible Pengaturan Cuti</value>
-      <webElementGuid>66db51be-e686-46d7-bfc2-9fcf999aa53c</webElementGuid>
+      <webElementGuid>f741a539-9cd8-422e-8a87-a7925e477cc8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>type</name>
       <type>Main</type>
       <value>number</value>
-      <webElementGuid>6676117a-d1b1-44b1-a1b8-d05ffcc4fdf7</webElementGuid>
+      <webElementGuid>afbfefb9-5cc6-4f49-ab04-176b5d083b3b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputSizeSmall css-1o6z5ng</value>
-      <webElementGuid>98cc8855-5678-42c3-90cc-c5a0a608ab9a</webElementGuid>
+      <webElementGuid>4e954c0f-98ee-49ae-80b1-ca9a0a26ed2a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>value</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>5c3021d2-3193-4e17-abfc-6c09e6ede877</webElementGuid>
+      <webElementGuid>a9eea911-f984-4158-9867-e3cd5b78f9bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;eligible_leave_total_month&quot;)</value>
-      <webElementGuid>cd60c9db-387a-4b04-a491-8b6944f5e0e3</webElementGuid>
+      <webElementGuid>ee0bb36c-9ed6-4e09-8fdf-1b1af4a2b9b8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='eligible_leave_total_month']</value>
-      <webElementGuid>16b920c9-acba-44f9-9aa0-ae9a9c75b91a</webElementGuid>
+      <webElementGuid>e5aae739-3cfa-4c73-a137-637b124ccbbd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/div[2]/div/div/input</value>
-      <webElementGuid>c2b55fa8-5ca0-40e7-9baa-aa31fe1c407a</webElementGuid>
+      <webElementGuid>d52048eb-ee14-47e4-85e5-fd98ac320a8f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,6 +111,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'eligible_leave_total_month' and @name = 'eligible_leave_total_month' and @placeholder = 'Eligible Pengaturan Cuti' and @type = 'number']</value>
-      <webElementGuid>f4b07eb4-1e2b-482d-8a5c-367285217770</webElementGuid>
+      <webElementGuid>baf0c250-3a6d-4dc3-943f-c9cdf7161353</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

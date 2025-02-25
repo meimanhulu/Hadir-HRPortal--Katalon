@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.delay(3)
+WebUI.delay(1)
 
 WebUI.click(findTestObject('Object Repository/SemuaHalaman/Page_HADIR/div_Laporan'))
 

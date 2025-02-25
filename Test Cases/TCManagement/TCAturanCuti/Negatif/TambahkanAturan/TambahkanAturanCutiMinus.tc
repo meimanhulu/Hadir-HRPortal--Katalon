@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Tambahkan Aturan Cuti</name>
+   <name>TambahkanAturanCutiMinus</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>0efed671-f45c-4766-a903-79b85a096f33</testCaseGuid>
+   <testCaseGuid>572d059d-3251-427f-b415-c005d8bd5059</testCaseGuid>
 </TestCaseEntity>

@@ -16,18 +16,31 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
-String folderPath = "D:/JuaraCoding/katalon/ErrorSS/Hadir/Semua/Pencarian/"
+import java.nio.file.Files as Files
+import java.nio.file.Paths as Paths
 
-WebUI.delay(3)
+// **2. Buat path folder screenshot secara dinamis**
+String folderPath = System.getProperty('user.dir') + '/Screenshots/Semua/Nama/'
+
+// **3. Pastikan folder ada, jika tidak buat folder baru**
+if (!(Files.exists(Paths.get(folderPath)))) {
+	Files.createDirectories(Paths.get(folderPath))
+}
+
+WebUI.delay(1)
 
 // Navigasi ke halaman laporan
 WebUI.click(findTestObject('Object Repository/SemuaHalaman/Page_HADIR/div_Laporan'))
+
 WebUI.click(findTestObject('Object Repository/SemuaHalaman/Page_HADIR/div_Semua'))
 
 // Pilih tanggal
 WebUI.click(findTestObject('Object Repository/SemuaHalaman/Page_HADIR/button_Start Date_MuiButtonBase-root MuiIco_4f75ca'))
+
 WebUI.click(findTestObject('Object Repository/SemuaHalaman/Page_HADIR/button_1'))
+
 WebUI.click(findTestObject('Object Repository/SemuaHalaman/Page_HADIR/button_28'))
+
 WebUI.click(findTestObject('Object Repository/SemuaHalaman/Page_HADIR/button_save'))
 
 // Klik tombol pencarian
@@ -35,26 +48,33 @@ WebUI.click(findTestObject('Object Repository/SemuaHalaman/Page_HADIR/button_Sea
 
 // Masukkan nama "Momo" dan cari
 WebUI.setText(findTestObject('Object Repository/SemuaHalaman/Page_HADIR/input_Search_search'), 'Momo')
+
 WebUI.click(findTestObject('Object Repository/SemuaHalaman/Page_HADIR/button_Search'))
 
 try {
-	// Verifikasi bahwa hasil pencarian menampilkan nama "Momo"
-	WebUI.verifyElementText(findTestObject('Object Repository/SemuaHalaman/Page_HADIR/h6_Momo'), 'Momo')
-} catch (Exception e) {
-	// Ambil screenshot jika gagal
-	WebUI.takeScreenshot(folderPath + "Error_Verifikasi_Momo.png")
-	throw e // Tetap lempar error agar test gagal
+    // Verifikasi bahwa hasil pencarian menampilkan nama "Momo"
+    WebUI.verifyElementText(findTestObject('Object Repository/SemuaHalaman/Page_HADIR/h6_Momo'), 'Momo')
 }
+catch (Exception e) {
+    WebUI.takeScreenshot(folderPath + 'Error_Verifikasi_Momo.png')
+
+    throw e
+} // Ambil screenshot jika gagal
+// Tetap lempar error agar test gagal
 
 // Hapus input pencarian dan cari ulang
 WebUI.clearText(findTestObject('Object Repository/SemuaHalaman/Page_HADIR/input_Search_search'))
+
 WebUI.click(findTestObject('Object Repository/SemuaHalaman/Page_HADIR/button_Search'))
 
 try {
-	// Verifikasi bahwa "Momo" tidak muncul lagi dalam hasil pencarian
-	WebUI.verifyElementNotPresent(findTestObject('Object Repository/SemuaHalaman/Page_HADIR/h6_Momo'), 5)
-} catch (Exception e) {
-	// Ambil screenshot jika hasil masih muncul
-	WebUI.takeScreenshot(folderPath + "Error_Momo_Masih_Ada.png")
-	throw e // Tetap lempar error agar test gagal
+    // Verifikasi bahwa "Momo" tidak muncul lagi dalam hasil pencarian
+    WebUI.verifyElementNotPresent(findTestObject('Object Repository/SemuaHalaman/Page_HADIR/h6_Momo'), 5)
 }
+catch (Exception e) {
+    WebUI.takeScreenshot(folderPath + 'Error_Momo_Masih_Ada.png')
+
+    throw e
+} // Ambil screenshot jika hasil masih muncul
+// Tetap lempar error agar test gagal
+

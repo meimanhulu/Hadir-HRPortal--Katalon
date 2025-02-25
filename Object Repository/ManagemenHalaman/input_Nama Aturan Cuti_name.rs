@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>06cb3b54-3e59-416d-947e-b3768dea8d26</webElementGuid>
+      <webElementGuid>5752c45f-e7c5-4070-b64f-e52497dcbb97</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>aria-invalid</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>aeafd591-806f-450f-b994-659d0a5593db</webElementGuid>
+      <webElementGuid>3309aac0-a4f3-4b0c-b43d-17f84333a7b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>id</name>
       <type>Main</type>
       <value>name</value>
-      <webElementGuid>5399b86a-4888-4cfa-aa08-1475bfcda720</webElementGuid>
+      <webElementGuid>5ffec178-be10-4cdc-98f9-777efedb879d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>name</name>
       <type>Main</type>
       <value>name</value>
-      <webElementGuid>c6be91f7-4c14-4820-b269-31e7d34e277b</webElementGuid>
+      <webElementGuid>f2bbce73-f924-4613-b1d2-925cf0651c98</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Nama Aturan Cuti</value>
-      <webElementGuid>6908444a-5081-4410-ae8c-63cb57e6bcc5</webElementGuid>
+      <webElementGuid>4a2585ae-3862-4972-ba9e-bb88710ebecb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>0b89e781-54bc-470e-b98e-1cae25fb6352</webElementGuid>
+      <webElementGuid>69061b5b-6b89-4894-aa24-f46954dce919</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputSizeSmall css-1o6z5ng</value>
-      <webElementGuid>24abaae1-7d25-4e92-ae10-fcdfbb43eafe</webElementGuid>
+      <webElementGuid>321b9228-ce77-4d49-b00e-2bdf00258d8b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;name&quot;)</value>
-      <webElementGuid>98c79aa4-5b95-4283-a57b-9b21970d6e65</webElementGuid>
+      <webElementGuid>37fe0156-56ff-4b48-95bb-a3aa217ead69</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='name']</value>
-      <webElementGuid>4120b932-77b6-4b29-a29f-f2c4b8b16490</webElementGuid>
+      <webElementGuid>fb2cf4d4-ab78-44c6-9010-af059666a1b6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div/form/div/div/div/input</value>
-      <webElementGuid>9a8daa70-e3dd-466b-b38c-bfa13c869582</webElementGuid>
+      <webElementGuid>be02194d-e2dd-4553-8408-d32fd944016f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +103,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'name' and @name = 'name' and @placeholder = 'Nama Aturan Cuti' and @type = 'text']</value>
-      <webElementGuid>71e40226-6c2e-4430-a58e-bab1567cae9c</webElementGuid>
+      <webElementGuid>30609628-802d-45d2-a645-2c6283f60121</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

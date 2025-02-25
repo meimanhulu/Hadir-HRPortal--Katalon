@@ -123,4 +123,11 @@
       <testCaseId>Test Cases/TC2HalamanLaporan/TC01Semua/Positif/Reset</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
+   <testCaseLink>
+      <guid>82547701-8dbf-428e-bbe3-8a49f9ff7ca2</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC2HalamanLaporan/TC01Semua/Positif/Pencarian/PencarianNamaKosongDenganTanggal</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
 </TestSuiteEntity>

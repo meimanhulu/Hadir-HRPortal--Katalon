@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TambahAturanCuti</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6474020f-87d2-4e4b-8e09-f63a2f5bddb4</testCaseGuid>
+</TestCaseEntity>

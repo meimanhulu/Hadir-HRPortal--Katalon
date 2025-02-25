@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TambahkanAturanCutiNegatif</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0efed671-f45c-4766-a903-79b85a096f33</testCaseGuid>
+</TestCaseEntity>
