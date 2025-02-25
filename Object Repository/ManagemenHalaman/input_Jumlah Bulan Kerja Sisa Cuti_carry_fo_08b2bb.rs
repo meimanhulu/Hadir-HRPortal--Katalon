@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>8e380b9b-d5da-41f7-9f55-859670f5c4fe</webElementGuid>
+      <webElementGuid>b590c86f-496f-4582-91ac-16add1814801</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>aria-invalid</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>7f9e6bce-9f55-4f9d-9bad-b7fc41f52a8b</webElementGuid>
+      <webElementGuid>ebdafb85-2216-445a-bdc4-ecf192cdd27e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>id</name>
       <type>Main</type>
       <value>carry_forward_total_month</value>
-      <webElementGuid>bd359278-eedc-455d-9605-bd33595513d3</webElementGuid>
+      <webElementGuid>8760c41a-7a83-498c-ab38-74ccd5e0c872</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>name</name>
       <type>Main</type>
       <value>carry_forward_total_month</value>
-      <webElementGuid>071abfab-6fc2-48cf-a5ac-364e1b4292b0</webElementGuid>
+      <webElementGuid>1101bcdd-e48e-4e1c-ba13-e1d525554767</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Jumlah Bulan Kerja Sisa Cuti</value>
-      <webElementGuid>3fe2660a-dbc0-4ec2-8b2e-7346530f7b21</webElementGuid>
+      <webElementGuid>21c6e010-674f-495c-84e4-f807a190c39b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>type</name>
       <type>Main</type>
       <value>number</value>
-      <webElementGuid>91c81e6e-bb28-45ad-b8ea-3410b3ae7d47</webElementGuid>
+      <webElementGuid>77e78d37-de61-4601-9aa0-8774b14b9a33</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputSizeSmall css-1o6z5ng</value>
-      <webElementGuid>ff7567f3-0fe8-4e5c-9824-be9ce41e8835</webElementGuid>
+      <webElementGuid>776ba250-a56a-4366-bf6b-ad2f5d1d08e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>value</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>4e4126b6-90c5-4aec-8895-360ce179fbbb</webElementGuid>
+      <webElementGuid>5439d510-67c6-4539-8645-254ab2ad7eda</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;carry_forward_total_month&quot;)</value>
-      <webElementGuid>370e756b-3ec3-4d55-aeed-0e59aeea5184</webElementGuid>
+      <webElementGuid>b7845c08-f1d7-4d7f-b06a-2e375c3f4588</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='carry_forward_total_month']</value>
-      <webElementGuid>de5e50ea-c9e0-4d98-a745-0b15ad6cc8ee</webElementGuid>
+      <webElementGuid>2291b5d7-9b1f-4025-a974-6a5c98c2e0a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[6]/div/div/input</value>
-      <webElementGuid>d4030916-6441-4aa4-ac3d-d6ad04f2333a</webElementGuid>
+      <webElementGuid>2f2d6f34-53f3-4a60-8bc4-3ceef37835d5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,6 +111,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'carry_forward_total_month' and @name = 'carry_forward_total_month' and @placeholder = 'Jumlah Bulan Kerja Sisa Cuti' and @type = 'number']</value>
-      <webElementGuid>f3bf87e3-6319-4b57-b07b-07bc143788c7</webElementGuid>
+      <webElementGuid>651901a2-3be5-40b7-9936-76c0aa647b59</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

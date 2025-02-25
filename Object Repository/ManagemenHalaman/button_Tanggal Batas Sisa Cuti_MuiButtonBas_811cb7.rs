@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>533c30cc-08ba-45b5-b334-9ae008aeae9d</webElementGuid>
+      <webElementGuid>881226ff-3233-48aa-a65b-8b4e437b5072</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiButtonBase-root MuiIconButton-root MuiIconButton-colorPrimary MuiIconButton-edgeEnd MuiIconButton-sizeMedium css-md0l3g</value>
-      <webElementGuid>4dc221e2-99f4-4747-9a45-ab2bafc38630</webElementGuid>
+      <webElementGuid>3a054a1d-315d-4ff5-b132-cac9b567e96c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>95f5bd1d-3beb-45d1-86fb-b2c15d113fab</webElementGuid>
+      <webElementGuid>a80abcef-304f-492b-b26b-51f142a01e62</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,15 +47,15 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>cfe5d22a-3e37-4f32-b355-d45b36fa9445</webElementGuid>
+      <webElementGuid>0f1bd710-e182-47f8-a3ba-ddd5b3a0519b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-label</name>
       <type>Main</type>
-      <value>Choose date, selected date is 1 Jan 2025</value>
-      <webElementGuid>d35f8215-0cce-4ada-bbac-297969715e23</webElementGuid>
+      <value>Choose date, selected date is 17 Agt 2025</value>
+      <webElementGuid>44f5708f-8192-44e9-a33b-c1ff14720e2e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;&quot;]/body[1]/div[@class=&quot;MuiDialog-root MuiModal-root css-126xj0f&quot;]/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper css-ekeie0&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation24 MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthSm MuiDialog-paperFullWidth css-cmgqgt&quot;]/div[@class=&quot;MuiDialogContent-root css-1ty026z&quot;]/form[1]/div[@class=&quot;MuiFormControl-root MuiFormControl-fullWidth css-187bkgj&quot;]/div[@class=&quot;MuiFormControl-root MuiFormControl-fullWidth MuiTextField-root css-feqhe6&quot;]/div[@class=&quot;MuiInputBase-root MuiOutlinedInput-root MuiInputBase-colorPrimary MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-sizeSmall MuiInputBase-adornedEnd css-57y7vj&quot;]/div[@class=&quot;MuiInputAdornment-root MuiInputAdornment-positionEnd MuiInputAdornment-outlined MuiInputAdornment-sizeSmall css-1nvf7g0&quot;]/button[@class=&quot;MuiButtonBase-root MuiIconButton-root MuiIconButton-colorPrimary MuiIconButton-edgeEnd MuiIconButton-sizeMedium css-md0l3g&quot;]</value>
-      <webElementGuid>d37cdd76-50c8-4409-afa9-29b9ab0b061e</webElementGuid>
+      <webElementGuid>c2f9f7ff-be74-4fc4-815e-d2cb4a9fb7ac</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[22]</value>
-      <webElementGuid>cd421bbf-c24d-472a-a1e6-a61ed5142e4a</webElementGuid>
+      <webElementGuid>6872e2fe-0000-4e2a-9a21-a12c6dd86d26</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tanggal Batas Sisa Cuti'])[2]/following::button[1]</value>
-      <webElementGuid>ace9469e-f222-41c7-af9c-42c942e26a3a</webElementGuid>
+      <webElementGuid>e8fa6013-2d02-4dc3-8117-c297779d39a8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[3]/following::button[1]</value>
-      <webElementGuid>ddf97fcd-677a-40da-acc4-1805ed921eee</webElementGuid>
+      <webElementGuid>2f384a48-a7c5-46bb-9148-25bef43afcc4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[4]/preceding::button[1]</value>
-      <webElementGuid>1fd8bcdc-9563-4a13-94c3-856b91ed739c</webElementGuid>
+      <webElementGuid>1b08cf9c-b971-45dd-890b-69bb0e147245</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Bulan Batas Sisa Cuti'])[2]/preceding::button[1]</value>
-      <webElementGuid>8b2e4ee6-2d3a-47dd-980f-28281c8cb130</webElementGuid>
+      <webElementGuid>e976cce5-b01c-41e7-a341-ff98c459274d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div/div/button</value>
-      <webElementGuid>fbf7e7da-249a-4f78-b085-afb1f5f7270b</webElementGuid>
+      <webElementGuid>b9f84f0b-5183-4efb-8422-b982209d7c8e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,6 +119,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button']</value>
-      <webElementGuid>8f93d029-eb62-4eb2-ba81-dd14c51e4a70</webElementGuid>
+      <webElementGuid>36420d87-e1cd-4a3b-9910-0dd0e278a5ee</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

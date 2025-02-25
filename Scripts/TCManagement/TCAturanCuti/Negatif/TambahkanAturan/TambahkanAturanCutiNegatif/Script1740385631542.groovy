@@ -19,19 +19,19 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.click(findTestObject('Object Repository/ManagemenHalaman/div_Management'))
 
-WebUI.delay(2)
-
 WebUI.scrollToElement(findTestObject('Object Repository/ManagemenHalaman/div_Aturan Cuti'), 0)
 
 WebUI.delay(2)
 
 WebUI.click(findTestObject('Object Repository/ManagemenHalaman/div_Aturan Cuti'))
 
+WebUI.click(findTestObject('Object Repository/ManagemenHalaman/button_Tambahkan Aturan Cuti'))
+
 WebUI.delay(5)
 
-WebUI.setText(findTestObject('Object Repository/ManagemenHalaman/input_Admin Hadir_search'), 'xyz')
+WebUI.click(findTestObject('Object Repository/ManagemenHalaman/button_Tambahkan'))
 
-WebUI.click(findTestObject('Object Repository/ManagemenHalaman/button_Search'))
+WebUI.click(findTestObject('Object Repository/ManagemenHalaman/p_Nama aturan cuti harus diisi'))
 
-WebUI.verifyElementText(findTestObject('ManagemenHalaman/b_Tidak Ada Data'), 'Tidak Ada Data')
+WebUI.click(findTestObject('Object Repository/ManagemenHalaman/button_Tutup'))
 

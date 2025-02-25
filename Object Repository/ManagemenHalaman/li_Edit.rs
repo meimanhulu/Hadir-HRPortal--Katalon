@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::li[1]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='View'])[1]/following::li[1]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>li.MuiButtonBase-root.MuiMenuItem-root.MuiMenuItem-gutters.MuiMenuItem-root.MuiMenuItem-gutters.css-1fh5cnl</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>c1cbdd62-41ed-4fe1-8701-aab549504859</webElementGuid>
+      <webElementGuid>61a38b36-bcd0-40ad-9c42-a21bd906d633</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,15 +31,15 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiButtonBase-root MuiMenuItem-root MuiMenuItem-gutters MuiMenuItem-root MuiMenuItem-gutters css-1fh5cnl</value>
-      <webElementGuid>9a3d45ee-8506-4aa5-a651-9c1b7412d7d8</webElementGuid>
+      <webElementGuid>caeb73d7-58d5-4cc8-b982-d38f36bbd3cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tabindex</name>
       <type>Main</type>
-      <value>0</value>
-      <webElementGuid>adbd821a-0ad1-43f8-aa01-d76c23378a20</webElementGuid>
+      <value>-1</value>
+      <webElementGuid>c6566cb1-9cf1-4e9e-a540-20845b737cd2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>role</name>
       <type>Main</type>
       <value>menuitem</value>
-      <webElementGuid>d15c3598-e062-403e-921e-942e5f3ebcd0</webElementGuid>
+      <webElementGuid>f3bd0671-449b-4f7e-af7c-2402088caa38</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Edit</value>
-      <webElementGuid>9294bc5a-219f-4dd4-a989-2eef2e434d7f</webElementGuid>
+      <webElementGuid>9c77c595-f804-4a8a-852c-ebddf4e68e36</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,23 +63,23 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;&quot;]/body[1]/div[@class=&quot;MuiPopover-root MuiMenu-root MuiModal-root css-1sucic7&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation8 MuiPopover-paper MuiMenu-paper MuiMenu-paper css-7befrg&quot;]/ul[@class=&quot;MuiList-root MuiList-padding MuiMenu-list css-r8u8y9&quot;]/li[@class=&quot;MuiButtonBase-root MuiMenuItem-root MuiMenuItem-gutters MuiMenuItem-root MuiMenuItem-gutters css-1fh5cnl&quot;]</value>
-      <webElementGuid>4dc129d6-45ed-45bb-a1e6-3bc4b234e350</webElementGuid>
+      <webElementGuid>b5fcb6a5-0a56-4faf-a53b-a49f8fbe9a09</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::li[1]</value>
-      <webElementGuid>7dc16f3b-e293-4475-9ccb-ac1111f4f785</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View'])[1]/following::li[1]</value>
+      <webElementGuid>34896b97-85bf-4bb1-9739-19cfd375edf6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ubah Password'])[1]/following::li[1]</value>
-      <webElementGuid>b59fc58e-ca52-4fe8-b58a-21fff6c97bbe</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::li[2]</value>
+      <webElementGuid>e927bc50-0c01-47d0-84bc-6454f506800f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[1]/preceding::li[1]</value>
-      <webElementGuid>cfb41fea-c82c-4a3c-ad93-a56000619a1b</webElementGuid>
+      <webElementGuid>189a1580-87ec-44f2-b8cd-588abd26f547</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View'])[2]/preceding::li[2]</value>
+      <webElementGuid>d8773e3a-18f3-40dd-9502-730aced02f7a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,15 +103,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Edit']/parent::*</value>
-      <webElementGuid>60740b35-362a-4b87-85e5-e2afccad82f3</webElementGuid>
+      <webElementGuid>64d6d1da-f849-401f-8e9d-8dd8d45220ef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/ul/li</value>
-      <webElementGuid>311586d8-9348-4309-93fb-09a40f15276c</webElementGuid>
+      <value>//div[3]/ul/li[2]</value>
+      <webElementGuid>f5d8c3da-ddcc-4695-aff9-b47a21b3561b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,6 +119,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//li[(text() = 'Edit' or . = 'Edit')]</value>
-      <webElementGuid>74a92976-2bfd-4194-b046-aeea02ee39a8</webElementGuid>
+      <webElementGuid>3f50880b-1adb-4e7e-99ec-3ee279598cd0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

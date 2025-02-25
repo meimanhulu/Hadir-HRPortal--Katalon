@@ -17,14 +17,12 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.delay(2)
-
 WebUI.click(findTestObject('Object Repository/SemuaHalaman/Page_HADIR/button_Reset'))
 
 WebUI.delay(2)
 
 // ASSERTION UNTUK MEMASTIKAN FILTER TELAH DIHAPUS
 // 1. Pastikan kolom pencarian kosong
-WebUI.verifyElementAttributeValue(findTestObject('Object Repository/SemuaHalaman/Page_HADIR/input_Search_search'), 'value', '', 
-    10)
+WebUI.verifyElementAttributeValue(findTestObject('Object Repository/SemuaHalaman/Page_HADIR/input_Search_search'), 'value', 
+    '', 10)
 

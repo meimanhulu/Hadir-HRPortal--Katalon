@@ -23,7 +23,8 @@ WebUI.scrollToPosition(0, 1000)
 
 WebUI.delay(2)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/SemuaHalaman/Page_HADIR/button_-_MuiButtonBase-root MuiIconButton-r_396e76_1'), 5)
+WebUI.verifyElementPresent(findTestObject('Object Repository/SemuaHalaman/Page_HADIR/button_-_MuiButtonBase-root MuiIconButton-r_396e76_1'), 
+    2)
 
 //for (int i = 0; i < 2; i++) {
 //    println(i)

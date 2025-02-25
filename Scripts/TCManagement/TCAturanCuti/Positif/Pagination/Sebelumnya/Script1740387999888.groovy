@@ -17,25 +17,13 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Object Repository/ManagemenHalaman/div_Management'))
+WebUI.delay(1)
+
+WebUI.scrollToPosition(0, 1000)
 
 WebUI.delay(2)
 
-WebUI.scrollToElement(findTestObject('Object Repository/ManagemenHalaman/div_Aturan Cuti'), 0)
+WebUI.click(findTestObject('Object Repository/ManagemenHalaman/button_Aksi_MuiButtonBase-root MuiIconButto_1da5fa_1'))
 
-WebUI.delay(2)
-
-WebUI.click(findTestObject('Object Repository/ManagemenHalaman/div_Aturan Cuti'))
-
-WebUI.click(findTestObject('Object Repository/ManagemenHalaman/button_Tambahkan Aturan Cuti'))
-
-WebUI.delay(5)
-
-WebUI.click(findTestObject('Object Repository/ManagemenHalaman/h2_Tambahkan Aturan Cuti'))
-
-WebUI.click(findTestObject('Object Repository/ManagemenHalaman/button_Tambahkan'))
-
-WebUI.click(findTestObject('Object Repository/ManagemenHalaman/p_Nama aturan cuti harus diisi'))
-
-WebUI.click(findTestObject('Object Repository/ManagemenHalaman/button_Tutup'))
+WebUI.scrollToPosition(0, 0)
 

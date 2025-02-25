@@ -6,12 +6,12 @@
    <elementGuidId>28415b2b-886c-4ed4-b667-5b45ab0823ed</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.MuiButtonBase-root.MuiButton-root.MuiButton-contained.MuiButton-containedInherit.MuiButton-sizeLarge.MuiButton-containedSizeLarge.MuiButton-colorInherit.MuiButton-fullWidth.MuiButton-root.MuiButton-contained.MuiButton-containedInherit.MuiButton-sizeLarge.MuiButton-containedSizeLarge.MuiButton-colorInherit.MuiButton-fullWidth.css-hn1hd3</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//button[@type='submit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.MuiButtonBase-root.MuiButton-root.MuiButton-contained.MuiButton-containedInherit.MuiButton-sizeLarge.MuiButton-containedSizeLarge.MuiButton-colorInherit.MuiButton-fullWidth.MuiButton-root.MuiButton-contained.MuiButton-containedInherit.MuiButton-sizeLarge.MuiButton-containedSizeLarge.MuiButton-colorInherit.MuiButton-fullWidth.css-hn1hd3</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>c759cdac-237e-4395-b761-22807183eec5</webElementGuid>
+      <webElementGuid>5961a03d-6d25-4d95-b74a-803ff924eab2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedInherit MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButton-colorInherit MuiButton-fullWidth MuiButton-root MuiButton-contained MuiButton-containedInherit MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButton-colorInherit MuiButton-fullWidth css-hn1hd3</value>
-      <webElementGuid>20e04a21-b116-4eed-8b3d-90f8df8ab588</webElementGuid>
+      <webElementGuid>13c75c35-c32f-43f9-ad0c-9f27d2a193a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>3f2b33f2-1ab4-428a-b8c2-70386b7998e4</webElementGuid>
+      <webElementGuid>bf1a9c8a-bdc2-4a95-b65e-f3410042e931</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>5f398cc0-a4ff-44b4-943d-f1e64052c1c6</webElementGuid>
+      <webElementGuid>b4d2f6ed-7899-40b0-8199-01ff8e808fd9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Masuk</value>
-      <webElementGuid>a249104c-393c-4f50-9f7d-fbe5608cfd45</webElementGuid>
+      <webElementGuid>017160c5-3ee6-4543-9c41-8b76f8981f89</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-hsiqdg&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-lg-6.5 css-trs5d0&quot;]/div[@class=&quot;MuiBox-root css-1uajoce&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/form[1]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedInherit MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButton-colorInherit MuiButton-fullWidth MuiButton-root MuiButton-contained MuiButton-containedInherit MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButton-colorInherit MuiButton-fullWidth css-hn1hd3&quot;]</value>
-      <webElementGuid>0c3cb8f3-c735-4fa7-ab18-5ab28e44f04e</webElementGuid>
+      <webElementGuid>dd7df70c-8ac6-4c38-aeb5-e9d356d1f8d3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='submit']</value>
-      <webElementGuid>3f0fbdd4-a323-4bbe-b2bc-1626121f07de</webElementGuid>
+      <webElementGuid>2e365f39-43e7-41ad-bdbd-aa38cc177740</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div/div[2]/div/div[2]/form/button</value>
-      <webElementGuid>0f26eeb7-f5d1-48b1-8b59-d4c971d529da</webElementGuid>
+      <webElementGuid>e0202111-bafd-48e8-8398-428c60a8e720</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[2]/following::button[1]</value>
-      <webElementGuid>d2c9730d-1641-4d71-b8aa-7ae015cd273a</webElementGuid>
+      <webElementGuid>bb04c6c3-af38-4b10-8e06-81a801685fc9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::button[2]</value>
-      <webElementGuid>1cc0fd64-3e01-44b1-a6e0-6ce1baeaaad3</webElementGuid>
+      <webElementGuid>6e16193b-3e4e-449e-97b8-cbeff1c7e3ed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Masuk']/parent::*</value>
-      <webElementGuid>a9dd39c6-237d-4dd9-b3dc-d34e9764abe5</webElementGuid>
+      <webElementGuid>271f0692-1255-431f-beb8-dbccdaeb9532</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/button</value>
-      <webElementGuid>b495adde-1d5d-4d05-a2aa-d388e27ea294</webElementGuid>
+      <webElementGuid>1c427a10-0db5-408b-91b3-37230584165d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,6 +119,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and (text() = 'Masuk' or . = 'Masuk')]</value>
-      <webElementGuid>06270e52-bedf-4d18-bd1b-1318defd3c3f</webElementGuid>
+      <webElementGuid>9849d6bb-45e3-4bde-97f4-52bd305072ad</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -32,7 +32,7 @@ WebUI.delay(2 // Bisa diganti dengan WebUI.waitForElementVisible() jika opsi pun
 // **Klik Opsi 5**
 TestObject option5 = new TestObject().addProperty('xpath', com.kms.katalon.core.testobject.ConditionType.EQUALS, '//li[text()="5"]')
 
-WebUI.waitForElementVisible(option5, 5)
+WebUI.waitForElementVisible(option5, 2)
 
 WebUI.click(option5)
 
@@ -57,7 +57,8 @@ TestObject option25 = new TestObject().addProperty('xpath', com.kms.katalon.core
 WebUI.executeJavaScript('arguments[0].click();', Arrays.asList(WebUiCommonHelper.findWebElement(option25, 5)))
 
 // **Menunggu Data Muncul**
-WebUI.delay(3 // Pastikan data sudah ter-load sebelum verifikasi
+WebUI.delay(1 // Pastikan data sudah ter-load sebelum verifikasi
+    // Pastikan data sudah ter-load sebelum verifikasi
     )
 
 // **Verifikasi Jumlah Data yang Ditampilkan adalah 25**
@@ -71,7 +72,8 @@ println('Jumlah data yang ditemukan: ' + jumlahData)
 
 // **Validasi Jika Data Tidak 25**
 if (jumlahData == 25) {
-    WebUI.comment('✅ Jumlah data yang ditampilkan sudah benar (25).') // Ambil screenshot jika gagal
+    WebUI.comment('✅ Jumlah data yang ditampilkan sudah benar (25).' // Ambil screenshot jika gagal
+        )
 } else {
     WebUI.comment('❌ ERROR: Jumlah data tidak sesuai! Ditemukan: ' + jumlahData)
 
