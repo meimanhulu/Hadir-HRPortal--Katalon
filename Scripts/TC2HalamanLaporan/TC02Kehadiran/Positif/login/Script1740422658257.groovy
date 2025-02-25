@@ -14,9 +14,19 @@ import com.kms.katalon.core.testobject.TestObject as TestObject
 import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
-import internal.GlobalVariable as GlobalVariable
+import internal.GlobalVariable
+import pages.LoginPages
+import pages.MenuPages
+
 import org.openqa.selenium.Keys as Keys
-import java.text.SimpleDateFormat as SimpleDateFormat
-import java.util.Date as Date
-import java.nio.file.Files as Files
-import java.nio.file.Paths as Paths
+
+//Keyword
+LoginPages  logins = new LoginPages()
+MenuPages menuPage = new MenuPages("Laporan", "Kehadiran")
+
+WebUI.openBrowser('')
+WebUI.maximizeWindow()
+WebUI.navigateToUrl('https://magang.dikahadir.com/authentication/login')
+
+logins.login("admin@hadir.com", "admin@hadir")
+menuPage.menu()

@@ -14,9 +14,16 @@ import com.kms.katalon.core.testobject.TestObject as TestObject
 import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
-import internal.GlobalVariable as GlobalVariable
+import internal.GlobalVariable
+import pages.KehadiranPages
+import pages.MenuPages
+
 import org.openqa.selenium.Keys as Keys
-import java.text.SimpleDateFormat as SimpleDateFormat
-import java.util.Date as Date
-import java.nio.file.Files as Files
-import java.nio.file.Paths as Paths
+
+MenuPages menuPage = new MenuPages("Laporan", "Kehadiran")
+KehadiranPages kehadiranPage = new KehadiranPages("January", "2021", "1", "February", "2025", "23")
+
+
+menuPage.menu()
+kehadiranPage.kehadiran("ADITYA RIDWAN NUGRAHA", "Iforte")
+
