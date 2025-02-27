@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Menampilkan Laporan Izin Pulang Cepat Departemen Tiket.com</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>38afd6a3-6af3-459c-8e84-97d6e071524f</testCaseGuid>
+</TestCaseEntity>

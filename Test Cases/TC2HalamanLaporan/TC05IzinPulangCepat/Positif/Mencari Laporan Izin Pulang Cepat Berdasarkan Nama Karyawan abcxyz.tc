@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Mencari Laporan Izin Pulang Cepat Berdasarkan Nama Karyawan abcxyz</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6c0e1912-1ea2-43ac-987a-bc24dc065ded</testCaseGuid>
+</TestCaseEntity>

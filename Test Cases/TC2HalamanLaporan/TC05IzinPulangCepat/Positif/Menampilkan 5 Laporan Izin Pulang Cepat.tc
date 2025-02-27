@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Menampilkan 5 Laporan Izin Pulang Cepat</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8841acf7-314f-4684-a4e5-31c8771e3699</testCaseGuid>
+</TestCaseEntity>

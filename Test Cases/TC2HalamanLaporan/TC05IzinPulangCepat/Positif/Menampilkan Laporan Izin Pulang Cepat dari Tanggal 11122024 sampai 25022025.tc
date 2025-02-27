@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Menampilkan Laporan Izin Pulang Cepat dari Tanggal 11122024 sampai 25022025</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1a08bbb0-4d6a-4a5a-8ba0-6fdf76bcc9b3</testCaseGuid>
+</TestCaseEntity>

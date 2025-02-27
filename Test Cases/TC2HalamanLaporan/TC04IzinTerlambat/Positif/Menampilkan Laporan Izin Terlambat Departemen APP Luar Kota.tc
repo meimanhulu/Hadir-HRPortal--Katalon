@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Menampilkan Laporan Izin Terlambat Departemen APP Luar Kota</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f11802db-d8ca-42d5-addb-b3069db6e69a</testCaseGuid>
+</TestCaseEntity>

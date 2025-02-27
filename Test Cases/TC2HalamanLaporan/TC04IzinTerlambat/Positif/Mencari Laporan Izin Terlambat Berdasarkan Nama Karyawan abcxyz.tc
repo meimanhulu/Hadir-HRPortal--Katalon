@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Mencari Laporan Izin Terlambat Berdasarkan Nama Karyawan abcxyz</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2e37612c-3ac9-4ccb-b149-5f6d7c1076f2</testCaseGuid>
+</TestCaseEntity>

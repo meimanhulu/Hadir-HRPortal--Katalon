@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Menampilkan Laporan Izin Pulang Cepat Halaman Selanjutnya</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2710296f-bd05-49be-b4a4-582f7c2a6061</testCaseGuid>
+</TestCaseEntity>

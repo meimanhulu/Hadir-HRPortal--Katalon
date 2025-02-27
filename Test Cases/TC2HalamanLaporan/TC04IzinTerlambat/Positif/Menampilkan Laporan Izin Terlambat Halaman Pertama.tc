@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Menampilkan Laporan Izin Terlambat Halaman Pertama</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>772bfca0-119d-4bf2-bac9-c2ca2a762dd5</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Menghilangkan Parameter-parameter Filter Laporan Izin Pulang Cepat yang Dibuat</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>474aec35-0b1a-4ea2-8953-20cfa1d42e8a</testCaseGuid>
+</TestCaseEntity>

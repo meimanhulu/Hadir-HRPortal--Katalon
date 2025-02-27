@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Menampilkan Laporan Izin Terlambat dari Tanggal 10082024 sampai 01012025</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>88b30adc-d3bd-40e5-8a48-5181d531d45a</testCaseGuid>
+</TestCaseEntity>

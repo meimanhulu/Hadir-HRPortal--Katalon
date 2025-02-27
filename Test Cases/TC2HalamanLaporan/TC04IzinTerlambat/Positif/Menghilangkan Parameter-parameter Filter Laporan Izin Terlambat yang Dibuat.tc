@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Menghilangkan Parameter-parameter Filter Laporan Izin Terlambat yang Dibuat</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8a3d3459-c47a-4a23-b7a5-a3e9968fd38c</testCaseGuid>
+</TestCaseEntity>

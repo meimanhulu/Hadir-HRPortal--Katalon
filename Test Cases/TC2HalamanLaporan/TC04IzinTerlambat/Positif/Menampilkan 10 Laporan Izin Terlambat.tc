@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Menampilkan 10 Laporan Izin Terlambat</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c85b3068-ec73-4069-a867-35da046fafb0</testCaseGuid>
+</TestCaseEntity>
