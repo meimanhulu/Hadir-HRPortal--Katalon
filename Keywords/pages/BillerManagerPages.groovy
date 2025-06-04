@@ -275,13 +275,5 @@ public class BillerManagerPages {
 		WebUI.takeFullPageScreenshot()
 	}
 	
-	def inactiveNo() {
-		WebUI.click(btnSimpMenu)
-		WebUI.click(btnInact)
-		WebUI.delay(2)
-		WebUI.click(btnNo)
-		WebUI.verifyElementText(btnNo, 'No', FailureHandling.CONTINUE_ON_FAILURE)
-		WebUI.delay(2)
-		WebUI.takeFullPageScreenshot()
-	}
+	
 }
