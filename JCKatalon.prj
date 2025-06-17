@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
    <description></description>
-   <name>JCKatalon</name>
+   <name>ProjectReferences</name>
    <tag></tag>
    <UUID>95a05e5f-e93c-4e65-847e-fba4be074588</UUID>
    <createdEdition>FREE</createdEdition>
@@ -9,7 +9,7 @@
    <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>ENTERPRISE</modifiedEdition>
-   <modifiedVersion>10.1.1</modifiedVersion>
+   <modifiedVersion>10.2.1</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
    <projectFileLocation>C:\Users\Admin\Documents\Hadir-HRPortal--Katalon\JCKatalon.prj</projectFileLocation>
    <sourceContent>

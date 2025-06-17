@@ -23,7 +23,5 @@ import org.openqa.selenium.Keys as Keys
 MenuPages menuPage = new MenuPages("Laporan", "Cuti")
 CutiPages cutiPage = new CutiPages("January", "2021", "1", "February", "2025", "24")
 
-
 menuPage.menu()
 cutiPage.cuti("abcxyz", "Security")
-

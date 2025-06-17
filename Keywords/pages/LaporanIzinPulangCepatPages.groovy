@@ -117,6 +117,7 @@ public class LaporanIzinPulangCepatPages {
 	}
 
 	static def inputFilterEndDate(String endDate) {
+		
 		String[] endDateArray = endDate.split("/")
 		WebUI.click(FILTER_END_YEAR_SELECT)
 		TestObject filterEndYearSelectOption = new TestObject().addProperty("xpath", ConditionType.EQUALS, "/html/body/div[1]/div/div[2]/div/div[1]/div/div[1]/div/div[2]/form/div/div[1]/div[3]/div/div/div[1]/div[2]/span/span[3]/select/option[@value='" + endDateArray[2] + "']")

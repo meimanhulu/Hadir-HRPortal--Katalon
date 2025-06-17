@@ -260,30 +260,30 @@ public class ManagementStockPages{
 		WebUI.takeScreenshot()
 	}
 
-//	def Advance(String text) {
-//		WebUI.verifyElementPresent(btnAdvance, 5)
-//		WebUI.click(btnAdvance)
-//		WebUI.verifyElementPresent(listbox, 5)
-//		WebUI.waitForElementClickable(listbox, 5)
-//		WebUI.takeScreenshot()
-//		WebUI.click(listbox)
-//		WebUI.delay(2)
-//		WebUI.verifyElementPresent(DropdownSearch, 5)
-//		WebUI.click(DropdownSearch)
-//		WebUI.setText(DropdownSearch, text)
-//		boolean isElementPresent = WebUI.verifyElementPresent(NoDescript, 5)
-//		if (isElementPresent) {
-//			// Jika elemen NoDescript tidak ditemukan, tampilkan pesan
-//			println "Data dengan '${text}' Tidak Ditemukan."
-//		} else {
-//			WebUI.takeScreenshot()
-//			// Jika elemen NoDescript ditemukan, lakukan tindakan berikut:
-//			WebUI.sendKeys(DropdownSearch, Keys.chord(Keys.CONTROL, 'a'))
-//			WebUI.sendKeys(DropdownSearch, Keys.chord(Keys.BACK_SPACE))
-//		}
-//		WebUI.delay(2)
-//		WebUI.sendKeys(DropdownSearch, Keys.chord(Keys.ENTER))
-//	}
+	//	def Advance(String text) {
+	//		WebUI.verifyElementPresent(btnAdvance, 5)
+	//		WebUI.click(btnAdvance)
+	//		WebUI.verifyElementPresent(listbox, 5)
+	//		WebUI.waitForElementClickable(listbox, 5)
+	//		WebUI.takeScreenshot()
+	//		WebUI.click(listbox)
+	//		WebUI.delay(2)
+	//		WebUI.verifyElementPresent(DropdownSearch, 5)
+	//		WebUI.click(DropdownSearch)
+	//		WebUI.setText(DropdownSearch, text)
+	//		boolean isElementPresent = WebUI.verifyElementPresent(NoDescript, 5)
+	//		if (isElementPresent) {
+	//			// Jika elemen NoDescript tidak ditemukan, tampilkan pesan
+	//			println "Data dengan '${text}' Tidak Ditemukan."
+	//		} else {
+	//			WebUI.takeScreenshot()
+	//			// Jika elemen NoDescript ditemukan, lakukan tindakan berikut:
+	//			WebUI.sendKeys(DropdownSearch, Keys.chord(Keys.CONTROL, 'a'))
+	//			WebUI.sendKeys(DropdownSearch, Keys.chord(Keys.BACK_SPACE))
+	//		}
+	//		WebUI.delay(2)
+	//		WebUI.sendKeys(DropdownSearch, Keys.chord(Keys.ENTER))
+	//	}
 
 	def Apply() {
 		WebUI.verifyElementPresent(btnApply, 5)
@@ -296,7 +296,7 @@ public class ManagementStockPages{
 			WebUI.takeScreenshot()
 		}
 	}
-	
+
 	def applicantData() {
 		WebUI.takeScreenshot("screenshots/before_click.png")
 		WebUI.verifyElementPresent(businessField, 5)
@@ -305,14 +305,14 @@ public class ManagementStockPages{
 		WebUI.click(branch)
 		WebUI.takeScreenshot("screenshots/after_click.png")
 	}
-	
+
 	def Doc1() {
 		WebUI.takeScreenshot("screenshots/before_Document_click.png")
 		WebUI.verifyElementPresent(DocDownload1, 5)
 		WebUI.click(DocDownload1)
 		WebUI.takeScreenshot("screenshots/after_Document_click.png")
 	}
-	
+
 	def Doc2() {
 		WebUI.takeScreenshot("screenshots/before_Document_click.png")
 		WebUI.verifyElementPresent(DocDownload2, 5)
@@ -328,7 +328,7 @@ public class ManagementStockPages{
 		WebUI.takeScreenshot("screenshots/view_after_click.png")
 		WebUI.delay(2)
 	}
-	
+
 	def comment(String Comments) {
 		WebUI.scrollToPosition(0, 2000, FailureHandling.STOP_ON_FAILURE)
 		WebUI.verifyElementPresent(fieldCommnt, 5)
@@ -363,29 +363,29 @@ public class ManagementStockPages{
 		WebUI.takeScreenshot("screenshots/view_after_ok.png")
 	}
 
-		def RejectYes() {
-			WebUI.verifyElementPresent(btnRejct, 5)
-			WebUI.click(btnRejct)
-			WebUI.takeScreenshot("screenshots/view_after_approve.png")
-			WebUI.verifyElementPresent(btnYes, 5)
-			WebUI.click(btnYes)
-			WebUI.takeScreenshot("screenshots/view_after_yes.png")
-			WebUI.verifyElementPresent(btnOK, 5)
-			WebUI.click(btnOK)
-			WebUI.takeScreenshot("screenshots/view_after_ok.png")
-		}
+	def RejectYes() {
+		WebUI.verifyElementPresent(btnRejct, 5)
+		WebUI.click(btnRejct)
+		WebUI.takeScreenshot("screenshots/view_after_approve.png")
+		WebUI.verifyElementPresent(btnYes, 5)
+		WebUI.click(btnYes)
+		WebUI.takeScreenshot("screenshots/view_after_yes.png")
+		WebUI.verifyElementPresent(btnOK, 5)
+		WebUI.click(btnOK)
+		WebUI.takeScreenshot("screenshots/view_after_ok.png")
+	}
 
-		def RejectNo() {
-			WebUI.verifyElementPresent(btnRejct, 5)
-			WebUI.click(btnRejct)
-			WebUI.takeScreenshot("screenshots/view_after_approve.png")
-			WebUI.verifyElementPresent(btnNo, 5)
-			WebUI.click(btnNo)
-			WebUI.takeScreenshot("screenshots/view_after_yes.png")
-			WebUI.verifyElementPresent(btnOK, 5)
-			WebUI.click(btnOK)
-			WebUI.takeScreenshot("screenshots/view_after_ok.png")
-		}
+	def RejectNo() {
+		WebUI.verifyElementPresent(btnRejct, 5)
+		WebUI.click(btnRejct)
+		WebUI.takeScreenshot("screenshots/view_after_approve.png")
+		WebUI.verifyElementPresent(btnNo, 5)
+		WebUI.click(btnNo)
+		WebUI.takeScreenshot("screenshots/view_after_yes.png")
+		WebUI.verifyElementPresent(btnOK, 5)
+		WebUI.click(btnOK)
+		WebUI.takeScreenshot("screenshots/view_after_ok.png")
+	}
 
 	def backView() {
 		WebUI.verifyElementPresent(btnBack, 5)

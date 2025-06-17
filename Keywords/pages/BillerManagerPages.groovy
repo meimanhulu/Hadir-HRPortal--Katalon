@@ -274,6 +274,4 @@ public class BillerManagerPages {
 		WebUI.delay(2)
 		WebUI.takeFullPageScreenshot()
 	}
-	
-	
 }
